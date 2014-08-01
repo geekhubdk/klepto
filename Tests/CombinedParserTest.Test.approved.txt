@@ -1,0 +1,83 @@
+﻿https://www.facebook.com/events/723232537750439/?ref_dashboard_filter=upcoming
+Event sourcing og CQRS
+27-08-2014
+
+Åbyhøj
+
+http://www.meetup.com/Odense-NET-User-Group/events/190689222/
+Arkitektur - Open Spaces
+05-08-2014
+Odense .NET User Group
+Odense
+
+https://www.prosa.dk/kalender/hele-kalenderen/?tx_moccrmintegration_courses%5Bcourse%5D=168&tx_moccrmintegration_courses%5Baction%5D=show&tx_moccrmintegration_courses%5Bcontroller%5D=Course&cHash=30e72f55030c7255d5f622191893fe99
+Geek Tuesday - Big Data (Aarhus U35)
+19-08-2014
+Prosa
+Aarhus
+
+https://secure.trifork.com/aarhus-2014/freeevent/index.jsp?eventOID=6344
+Distributed systems using ZeroMq
+12-08-2014
+Trifork
+Aarhus
+
+https://www.facebook.com/events/1444628309154493/?ref_dashboard_filter=upcoming
+ASP.NET vNext Hands On
+19-08-2014
+
+
+
+https://secure.trifork.com/aarhus-2014/freeevent/index.jsp?eventOID=6338
+An introduction to iBeacons on Android
+27-08-2014
+Trifork
+Aarhus
+
+https://secure.trifork.com/cph-2014/freeevent/index.jsp?eventOID=6452
+Applying CQRS and MVVM successfully
+27-08-2014
+Trifork
+København
+
+https://secure.trifork.com/aarhus-2014/freeevent/index.jsp?eventOID=6453
+Applying CQRS and MVVM successfully
+28-08-2014
+Trifork
+Aarhus
+
+https://secure.trifork.com/cph-2014/freeevent/index.jsp?eventOID=6339
+An introduction to iBeacons on Android
+02-09-2014
+Trifork
+København
+
+https://secure.trifork.com/cph-2014/freeevent/index.jsp?eventOID=6461
+Solving Problems the Swift Way
+21-08-2014
+Trifork
+København
+
+https://secure.trifork.com/cph-2014/freeevent/index.jsp?eventOID=6343
+High performance systems in using Disruptor
+10-09-2014
+Trifork
+København
+
+https://www.prosa.dk/kalender/hele-kalenderen/?tx_moccrmintegration_courses%5Bcourse%5D=278&tx_moccrmintegration_courses%5Baction%5D=show&tx_moccrmintegration_courses%5Bcontroller%5D=Course&cHash=58bb73d2116161676953f6edb99f269c
+Mødegruppe for ƒunktionelle Københavnere
+09-09-2014
+Prosa
+København
+
+http://ida.dk/event/311253
+AngularJS 100% JavaScript
+11-09-2014
+IDA IT
+København
+
+http://ida.dk/event/310836
+Rasmus Klump
+03-08-2014
+IDA-Ks KulturForum
+
